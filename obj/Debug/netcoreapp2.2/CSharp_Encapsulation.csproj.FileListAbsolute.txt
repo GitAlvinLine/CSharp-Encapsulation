@@ -1,0 +1,11 @@
+/Users/alvinescobar/C#/practice/CSharp_Encapsulation/bin/Debug/netcoreapp2.2/CSharp_Encapsulation.deps.json
+/Users/alvinescobar/C#/practice/CSharp_Encapsulation/bin/Debug/netcoreapp2.2/CSharp_Encapsulation.runtimeconfig.json
+/Users/alvinescobar/C#/practice/CSharp_Encapsulation/bin/Debug/netcoreapp2.2/CSharp_Encapsulation.runtimeconfig.dev.json
+/Users/alvinescobar/C#/practice/CSharp_Encapsulation/bin/Debug/netcoreapp2.2/CSharp_Encapsulation.dll
+/Users/alvinescobar/C#/practice/CSharp_Encapsulation/bin/Debug/netcoreapp2.2/CSharp_Encapsulation.pdb
+/Users/alvinescobar/C#/practice/CSharp_Encapsulation/obj/Debug/netcoreapp2.2/CSharp_Encapsulation.csprojAssemblyReference.cache
+/Users/alvinescobar/C#/practice/CSharp_Encapsulation/obj/Debug/netcoreapp2.2/CSharp_Encapsulation.csproj.CoreCompileInputs.cache
+/Users/alvinescobar/C#/practice/CSharp_Encapsulation/obj/Debug/netcoreapp2.2/CSharp_Encapsulation.AssemblyInfoInputs.cache
+/Users/alvinescobar/C#/practice/CSharp_Encapsulation/obj/Debug/netcoreapp2.2/CSharp_Encapsulation.AssemblyInfo.cs
+/Users/alvinescobar/C#/practice/CSharp_Encapsulation/obj/Debug/netcoreapp2.2/CSharp_Encapsulation.dll
+/Users/alvinescobar/C#/practice/CSharp_Encapsulation/obj/Debug/netcoreapp2.2/CSharp_Encapsulation.pdb
